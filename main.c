@@ -1,4 +1,9 @@
-
+/*
+ * Conditional operator programming exercises and solutions in C
+ *
+ *  Created on: Aug 22, 2024
+ *      Author: Hager Khaled
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
